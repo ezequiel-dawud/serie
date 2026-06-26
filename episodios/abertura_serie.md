@@ -40,7 +40,7 @@ pintura digital cinemática, ultra-detalhado, profundidade de campo rasa
 ```
 Close-up extremo do mesmo olho humano, íris castanha,
 luz branca intensa e silenciosa invadindo a cena pelas bordas do quadro,
-reflexo do clarão branco visível na córnea do olho,
+reflexo do clarão branco visível na córnea do olho — no brilho do olhar é possível ver a luz crescendo e se aproximando, como um ponto branco que expande até tomar o reflexo inteiro,
 sombras das árvores desaparecendo gradualmente consumidas pela luz,
 expressão de surpresa e confusão visível ao redor do olho,
 tons quentes sendo substituídos por branco frio e estéril,
@@ -57,9 +57,10 @@ Close-up extremo do olho humano se fechando em câmera lenta,
 pálpebra descendo sobre a íris castanha,
 luz branca cegante refletida nas pestanas e na pele ao redor,
 último fragmento da íris castanha normal visível antes de desaparecer,
+uma lágrima se forma no canto interno do olho e escorre lentamente pela bochecha — trilha de umidade brilhando contra a luz branca,
 momento de transição entre dois mundos,
 branco puro tomando conta do quadro,
-pintura digital cinemática, ultra-detalhado, dramático
+pintura digital cinemática, ultra-detalhado, dramático e melancólico
 ```
 
 ---
@@ -80,7 +81,7 @@ Close-up extremo de um olho humano abrindo a partir do branco,
 íris completamente transformada — cor amarelada com veios dourados e alaranjados,
 pupila desbotada, 
 veias escuras visíveis ao redor da íris se espalhando pelo branco do olho,
-pele ao redor levemente cinzenta e com textura alterada,
+pele ao redor pálida quase branca, nervuras azuladas ramificando-se sob a superfície da pele como raízes finas,
 o olho parece consciente mas não humano — algo observa por dentro,
 fundo escuro e sem referência de lugar,
 tons frios e metálicos, contraste dramático com o branco anterior,
@@ -95,6 +96,7 @@ pintura digital cinemática, ultra-detalhado, arrepiante mas não grotesco
 ```
 Câmera recuando lentamente de close extremo de olho transformado para revelar
 metade de um rosto humano com sinais de transformação em zumbi,
+pele pálida quase cadavérica, nervuras azuladas densas ramificando-se pelo rosto a partir dos olhos — como veias de mármore frio,
 veias escuras se ramificando a partir dos olhos pela pele, expressão vazia e distante,
 fundo completamente escuro sem referência de cenário,
 iluminação frontal fria e cirúrgica destacando os detalhes da transformação,
