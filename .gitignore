@@ -5,3 +5,4 @@ __pycache__/
 output/roteiros/*
 output/status/*
 output/videos/*
+node_modules/
