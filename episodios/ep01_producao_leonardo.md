@@ -7,7 +7,7 @@
 > `cartoon, anime, 3D render, text, watermark, blurry, deformed face, extra fingers, bad anatomy, smiling, happy expression, stock photo`
 >
 > **Style Reference (aplicar em todos com strength 30%):**
-> `Dark atmospheric cinematic digital painting concept art, post-apocalyptic Brazilian landscape, muted desaturated color palette, warm amber and cold blue contrast, dramatic natural lighting, photorealistic texture, ultra-detailed, no characters visible`
+> `Dark atmospheric cinematic digital painting concept art, post-apocalyptic landscape, muted desaturated color palette, warm amber and cold blue contrast, dramatic natural lighting, photorealistic texture, ultra-detailed, no characters visible`
 
 ---
 
@@ -47,17 +47,42 @@ no watermark, no text
 ### Cena 1A — Fachada da escola
 > *Nota CapCut: adicionar legenda "Montebelo — Estado de Segóia"*
 ```
-Exterior of public school building in a small Brazilian city,
-wide establishing shot, iron gate slightly ajar,
-sign on wall with school name, tree-lined sidewalk,
-warm afternoon December sunlight, no people visible,
-calm and familiar atmosphere, muted warm tones,
-cinematic digital painting, ultra-detailed, 16:9
+Exterior facade of a public school building in a small inland city,
+
+Architecture: single-story building with sloped terracotta clay tile roof
+(colonial-style orange-brown ceramic tiles), walls painted in two-tone pattern —
+upper half white, lower half faded institutional blue, same two-tone pattern
+on the perimeter wall, concrete structural columns supporting a covered walkway
+corridor visible through the gate,
+
+Gate: large closed metal gate with vertical iron bars, painted dark navy blue,
+two square concrete pillars on each side, white and slightly weathered,
+low perimeter wall with matching white-and-blue paint, some peeling and
+weathering on the blue section,
+
+Courtyard visible through the bars: open concrete patio, small rectangular
+garden bed in the center with low ornamental plants, one young slim tree
+planted in the courtyard, covered corridor with evenly spaced columns
+running along the building facade creating deep shadow,
+
+Sidewalk: plain concrete pavement in the foreground, dappled tree shadow
+patterns cast across the sidewalk and the gate,
+
+Trees: two large mature deciduous trees with dense green canopy flanking
+the entrance on the public sidewalk, branches overhanging the gate,
+
+Lighting: strong direct midday summer sunlight, high contrast between
+bright lit surfaces and deep cool shadows under the trees and corridor,
+deep blue sky with scattered white clouds, no people visible,
+
+Camera: wide establishing shot from the sidewalk facing the gate straight-on,
+slight low angle, gate centered, trees naturally framing the composition,
+cinematic digital painting, photorealistic, ultra-detailed, 16:9
 ```
 
 ### Cena 1B — Sala de aula
 ```
-Interior of public school classroom in Brazil, summer December heat,
+Interior of public school classroom, summer December heat,
 ceiling fan turning slowly, students in school uniforms restless and excited,
 one student near the window with open notebook,
 warm golden afternoon light through large windows, wide shot,
@@ -76,7 +101,7 @@ cinematic, ultra-detailed
 
 ### Cena 2A — Corredor da escola
 ```
-Corridor of Brazilian public school crowded with students heading home for summer vacation,
+Corridor of public school crowded with students heading home for summer vacation,
 backpacks being thrown on shoulders, kids laughing,
 warm afternoon light coming from exit doors, wide shot,
 lively and ordinary, muted warm tones,
@@ -85,7 +110,7 @@ cinematic digital painting, ultra-detailed, 16:9
 
 ### Cena 4A — Estrada de terra e lago
 ```
-Quiet dirt road in the interior of a Brazilian state,
+Quiet dirt road in the interior,
 winding alongside a calm blue lake,
 dense protected forest on both sides, warm December afternoon light
 filtering through tree canopy in golden shafts,
@@ -96,7 +121,7 @@ feeling of a familiar and beloved place
 
 ### Cena 5A — A cabana (exterior)
 ```
-Rustic wooden cabin in a clearing surrounded by dense protected Brazilian forest,
+Rustic wooden cabin in a clearing surrounded by dense protected forest,
 small porch with two wooden steps, bicycle leaning against the porch railing,
 warm afternoon light filtering between trees,
 isolated and quiet property, no people visible,
@@ -106,7 +131,7 @@ cinematic digital painting, ultra-detailed, 16:9
 
 ### Cena 6A — Interior da cabana
 ```
-Interior of rustic wooden cabin in Brazil, simple but personal,
+Interior of rustic wooden cabin, simple but personal,
 family photos on walls, shelves with field equipment and books,
 forest ranger vest hanging on a hook in the hallway,
 warm afternoon light through small windows,
@@ -148,7 +173,7 @@ muted warm tones, cinematic, ultra-detailed
 ### Cena 12A — Coluna de fumaça acima da floresta
 ```
 View from behind a small wooden cabin at dusk,
-dense Brazilian protected forest treeline in the distance,
+dense protected forest treeline in the distance,
 a single dark smoke column rising slowly from deep in the forest,
 purple-orange sunset sky, scene completely still except for the smoke,
 ominous and quiet, wide establishing shot,
@@ -166,7 +191,7 @@ cool-warm transitional muted palette, cinematic digital painting, ultra-detailed
 [CHARACTER REF: Zack | strength 70%]
 
 Latino teenage boy on simple bicycle riding on tree-lined sidewalk
-of a small Brazilian city, wearing dark t-shirt and school backpack,
+of a small city, wearing dark t-shirt and school backpack,
 one earbud in, relaxed confident posture,
 afternoon golden hour sunlight, wide cinematic shot,
 muted warm tones, photorealistic, ultra-detailed, 16:9
@@ -341,7 +366,7 @@ muted warm tones, cinematic, photorealistic, ultra-detailed
 ## THUMBNAIL DO EPISÓDIO
 
 ```
-Split image: left half shows calm Brazilian lake at golden hour
+Split image: left half shows calm lake at golden hour
 with a bicycle wheel at the edge suggesting a boy's journey, warm golden tones.
 Right half shows dark smoke rising above dense forest treeline at dusk,
 cool purple tones. The dividing line slightly blurred suggesting two worlds merging.
