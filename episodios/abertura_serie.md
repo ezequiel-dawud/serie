@@ -43,7 +43,7 @@ Sem sorrisos, sem estilo cartoon, sem anime, sem aparência de foto de banco de 
 Plano de detalhe extremo (close-up) do mesmo olho humano — a câmera nunca se afasta.
 Um único ponto de luz branca intensa surge como um reflexo natural no centro do olho —
 pequeno a princípio, como um brilho captado no olhar.
-Ele se expande iluminando tudo ao redor da cena.
+Ele se expande iluminando todo o cenario ao redor da cena.
 As sombras das folhas se dissipam à medida que a luz consome a imagem.
 Medo e confusão visíveis na pele ao redor do olho.
 Pintura digital cinematográfica, ultra-detalhado, iluminação dramática, 16:9.
@@ -113,17 +113,83 @@ Sem sorrisos, sem estilo cartoon, sem anime, sem aparência de foto de banco de 
 
 ---
 
-## PLANO 7 — TÍTULO DA SÉRIE
-> ⏱️ Duração: ~5s
-> 🎬 **Nota de edição (CapCut):**
-> - Fundo: frame escuro do plano anterior (olho transformado desfocando até preto)
-> - Texto: `Exp. 154`
-> - Efeito de entrada: letras aparecem embaralhadas/corrompidas e vão se corrigindo até o nome certo (efeito "glitch" ou "scramble text")
-> - Fonte sugerida: sem serifa pesada, maiúsculas, espaçamento largo — ex: Bebas Neue ou Orbitron
-> - Cor: branco puro sobre fundo preto
-> - Som: trilha sobe nesse momento
+## PLANO 7 — SÍMBOLOS ALIENÍGENAS VIRAM TÍTULO
+> ⏱️ Duração: ~6s | Transição de entrada: dissolve a partir do preto do plano anterior
+> 🎬 **Nota de edição (CapCut) — este plano é montagem, não imagem gerada**
 
-*(sem prompt de imagem — montagem no CapCut)*
+**Estrutura visual do plano:**
+
+1. **Fundo escuro** — o frame preto do plano anterior se mantém. A tela está quase totalmente escura.
+
+2. **Símbolos alienígenas surgem ao centro** — aparecem no meio do frame, suaves, luminosos, como se fossem gravados no escuro. Estilo: geométrico-alienígena, não-humano, vagamente parecidos com runas ou hieróglifos extraterrestres. Ficam mudando levemente, pulsando.
+
+3. **Transformação lenta dos símbolos em letras** — os símbolos vão, quadro a quadro, se deformando e se reorganizando até formarem as letras latinas `Exp.` — devagar, quase orgânico, como se a língua humana fosse sendo decodificada.
+
+4. **Ao lado direito: números trocando** — simultaneamente, um conjunto de números pisca e se troca rapidamente (`47... 89... 12... 203...`) em loop acelerado, como um contador buscando o valor certo.
+
+5. **Closes intercalados de planetas fictícios** (ver prompts abaixo) — enquanto os números trocam, cortes rápidos mostram planetas alienígenas diferentes ao fundo ou como insert shots: tons de laranja, roxo, anéis, superfícies gasosas. Cada corte dura ~0,5s.
+
+6. **Número trava em `154`** — no exato momento em que os closes chegam ao planeta similar à Terra (o planeta de Altus), o número para em `154`. O título completo `Exp. 154` aparece fixo por um momento.
+
+> **Configurações de texto no CapCut:**
+> - Fonte: Orbitron ou Bebas Neue — maiúsculas, espaçamento largo
+> - Cor: branco frio (#E8F0FF) sobre fundo preto
+> - Efeito nos símbolos: usar "Glitch" ou "Scramble Text" com velocidade lenta nos frames de transformação
+> - Efeito nos números: trocar manualmente frame a frame, ou usar efeito "contador" com velocidade alta
+
+---
+
+### ASSETS DE IMAGEM — PLANETAS FICTÍCIOS (closes rápidos, ~0,5s cada)
+
+> Gerar no **Leonardo AI** — usar como insert shots durante a troca de números
+
+**Planeta A — gasoso alaranjado**
+```
+Fictional alien planet in deep space, close-up view, massive orange and red gas giant
+with swirling storm bands, no rings, glowing atmospheric edges, dramatic lighting,
+cinematic digital painting, ultra-detailed, 16:9, no text, no watermark.
+```
+
+**Planeta B — roxo com anéis**
+```
+Fictional alien planet in deep space, close-up view, purple and violet ice planet
+with thin translucent rings at an angle, blue atmospheric glow, cinematic digital painting,
+ultra-detailed, 16:9, no text, no watermark.
+```
+
+**Planeta C — rochoso e árido**
+```
+Fictional alien planet in deep space, close-up view, rocky barren brown-gray planet
+with craters and dry mountain ridges, no atmosphere, harsh sidelit, distant sun visible,
+cinematic digital painting, ultra-detailed, 16:9, no text, no watermark.
+```
+
+**Planeta D — similar à Terra (planeta de Altus)**
+```
+Fictional Earth-like planet seen from orbit, blue oceans, green and brown continents,
+white cloud formations, thin atmosphere glow, no labels, no country borders visible,
+cinematic digital painting, ultra-detailed, 16:9, no text, no watermark.
+```
+
+---
+
+## PLANO 8 — APROXIMAÇÃO DO PLANETA → CHILEM → NUVENS
+> ⏱️ Duração: ~5s | Entrada: direto do plano anterior, câmera já em movimento
+
+> Gerar no **Leonardo AI** como sequência de imagens ou vídeo com motion
+
+```
+Cinematic approach to a fictional Earth-like planet from orbit, descending toward a
+mid-sized territory on a large continent — no country names, no labels, no text visible
+anywhere on the planet surface.
+The camera descends slowly, the continent growing larger as the altitude drops.
+Clouds begin to fill the frame from the edges as the camera enters the upper atmosphere.
+The territory below has green highlands and rivers barely visible through thin cloud cover.
+Final frame: clouds fill the entire screen — white, dense, slightly dark at the top.
+Cinematic digital painting, ultra-detailed, dramatic lighting, 16:9, no text, no watermark.
+```
+
+> **Nota de montagem:** gerar 3 ou 4 frames em alturas diferentes (órbita alta → órbita baixa → entrada nas nuvens → branco das nuvens) e montar com dissolve suave entre eles no CapCut.
 
 ---
 
@@ -137,9 +203,10 @@ Sem sorrisos, sem estilo cartoon, sem anime, sem aparência de foto de banco de 
 | 4 | Lágrima caindo com olho fechado | 2s | corta direto |
 | 5 | Olho abre — ainda normal | 3s | corta direto |
 | 6 | Transformação acontece com olho aberto | 4s | dissolve para preto |
-| 7 | Título Exp. 154 | 5s | fade out |
+| 7 | Símbolos alienígenas → Exp. 154 + closes de planetas | 6s | direto |
+| 8 | Aproximação do planeta → Chilem → nuvens | 5s | fade out |
 
-> **Total:** ~22 segundos
+> **Total:** ~28 segundos
 
 ---
 
@@ -151,4 +218,5 @@ Sem sorrisos, sem estilo cartoon, sem anime, sem aparência de foto de banco de 
 - **Plano 4:** silêncio absoluto com leve drone grave ao fundo
 - **Plano 5:** silêncio tenso — quase nenhum som
 - **Plano 6:** batida baixa e perturbadora crescendo enquanto a transformação acontece
-- **Plano 7 (título):** trilha principal sobe — tom épico e sombrio
+- **Plano 7 (símbolos/título):** trilha principal começa a subir — tom épico e sombrio; sons de interferência ou frequência alienígena durante a troca dos símbolos
+- **Plano 8 (planeta):** trilha em pico — vento atmosférico crescendo conforme a câmera entra nas nuvens
